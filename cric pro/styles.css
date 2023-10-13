@@ -1,0 +1,89 @@
+body {
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+
+.text{
+    font-size: 50px;
+    margin-left: 75px;
+    margin-top: 10px;
+    text-shadow: 2px 2px 5px #737373;
+}
+
+.vs{
+    font-weight: bold;
+    color: rgb(167, 158, 158);
+    font-size:25px;
+    margin-top:-29px;
+    margin-left:75px
+}
+.logo{
+    margin-left: 1200px;
+    margin-top: 20px;
+}
+table,th,tr{
+    width: 850px;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 5px;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(164, 164, 164);
+
+}
+th{
+    color:white;
+    text-align: left;
+    background-color: orangered;
+}
+th,td{
+    width: 30px;
+}
+.firstrow{
+    width: 200px;
+    height: 40px;
+    /* background-color: white; */
+}
+td{
+    background-color: white;
+    
+}
+.ibw{
+    width:200px; 
+    color: grey;
+}
+.extra{
+    /* margin-left: 200px; */
+    text-align: right;
+    padding-right: 85px;
+}
+.total{
+    text-align: right;
+    padding-right: 115px;
+}
+.lub{
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: -5px;
+}
+.words{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    margin-left: 30px;
+    font-style: italic;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(101, 101, 248);
+}
